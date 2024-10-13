@@ -54,3 +54,11 @@ hugo server -D
 <meta name="referrer" content="never">
 ```
 
+
+
+创建`layouts/partials/footer/custom.html`中加上
+
+```html
+<meta name="referrer" content="never">
+```
+

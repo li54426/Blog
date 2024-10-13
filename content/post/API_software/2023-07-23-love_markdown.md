@@ -18,7 +18,7 @@ tags:
 {:toc}
 
 
-<meta name="referrer" content="never">
+
 
 
 
@@ -26,15 +26,11 @@ tags:
 
 [tupian](https://gitee.com/li54426/the_pictures/raw/master/blog_cs/202409271347493504.png)
 
-![tupian](https://gitee.com/li54426/the_pictures/raw/master/blog_cs/202409271347493504.png)
-
-<img src="https://gitee.com/li54426/the_pictures/raw/master/blog_cs/202409271347493504.png" />
 
 
 
 
 
-{{ $image **:=** resources.GetRemote "https://gitee.com/li54426/the_pictures/raw/master/blog_cs/202409271347493504.png" }}
 
 ### 一 简介
 
