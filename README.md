@@ -62,3 +62,62 @@ hugo server -D
 <meta name="referrer" content="never">
 ```
 
+
+
+
+
+#### URL组织形式
+
+在定义 URL 模式时使用这些令牌。前置数据中的 `date` 字段确定与时间相关的令牌的值。
+
+- `:year`
+
+    4 位数年份
+
+- `:month`
+
+    2 位数月份
+
+- `:monthname`
+
+    月份的名称
+
+- `:day`
+
+    2 位数日期
+
+- `:weekday`
+
+    1 位数星期几（星期日 = 0）
+
+- `:weekdayname`
+
+    星期的名称
+
+- `:yearday`
+
+    1 至 3 位数的年份中的天数
+
+- `:section`
+
+    数据所属的部分
+
+- `:sections`
+
+    数据的部分层次结构。您可以使用 *切片语法* 选择部分，例如 `:sections[1:]` 包括除了第一个以外的所有部分，`:sections[:last]` 包括除了最后一个以外的所有部分，`:sections[last]` 仅包括最后一个部分，`:sections[1:2]` 包括第 2 至第 3 部分。请注意，切片访问不会抛出任何越界错误，因此您不必非常准确。
+
+- `:title`
+
+    数据的标题
+
+- `:slug`
+
+    数据的 slug（如果在前置数据中未提供 slug，则使用标题）
+
+- `:slugorfilename`
+
+    数据的 slug（如果在前置数据中未提供 slug，则使用文件名）
+
+- `:filename`
+
+    数据的文件名（不含扩展名）
