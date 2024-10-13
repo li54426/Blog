@@ -14,8 +14,7 @@ tags:
 - algorithm
 ---
 
-* content
-{:toc}
+
 EOF
 
 echo "文件已生成：$filename"

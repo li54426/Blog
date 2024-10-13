@@ -1,3 +1,15 @@
+---
+layout: blog
+banana: true
+title:  "巧用github action编译安装包"
+category: API_software
+date:   2023-07-29 14:26:19
+background: blue
+tags:
+- software
+- latex
+---
+
 
 
 那该怎么获得最最一手的版本呢？嘿嘿，GitHub 上有源码，咱们完全可以自己编译打包。
