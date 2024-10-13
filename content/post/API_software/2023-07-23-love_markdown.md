@@ -16,6 +16,12 @@ tags:
 
 * content
 {:toc}
+
+
+<meta name="referrer" content="never">
+
+
+
 ![image-20220906145334336](assets/blog/20230801md.png)
 
 [tupian](https://gitee.com/li54426/the_pictures/raw/master/blog_cs/202409271347493504.png)
