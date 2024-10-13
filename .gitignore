@@ -7,5 +7,5 @@ resources
 hugo.exe
 
 # 1024文件
-.1024
-.1024nix
+*.1024
+*.1024nix
