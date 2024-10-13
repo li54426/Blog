@@ -2,7 +2,7 @@
 layout: blog
 banana: true
 category: summary
-title:  
+title:  毕业论文完成情况
 date:   2024-05-14 14:14:19
 background-image: http://ot1cc1u9t.bkt.clouddn.com/17-8-1/24280498.jpg
 tags:
@@ -10,8 +10,8 @@ tags:
 - memcache
 ---
 
-* content
-{:toc}
+
+
 
 
 

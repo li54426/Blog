@@ -15,8 +15,7 @@ tags:
 - API_software
 ---
 
-* content
-{:toc}
+
 EOF
 
 echo "文件已生成：$filename"

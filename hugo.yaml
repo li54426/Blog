@@ -22,7 +22,7 @@ languages:
 #########################################
     zh-cn:
         languageName: 中文
-        title: Blog
+        title: li54426 's Blog
         weight: 2
         params:
             description: 我的个人博客
@@ -43,7 +43,8 @@ services:
         id:
 
 pagination:
-    pagerSize: 3
+    # 一页显示多少blog
+    pagerSize: 10
 
 permalinks:
     # post: /p/:slug/

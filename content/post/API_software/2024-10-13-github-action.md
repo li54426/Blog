@@ -1,3 +1,15 @@
+---
+layout: blog
+banana: true
+category: API_software
+title:  
+date:   2024-10-13 20:39:59
+banner:
+  image: https://bit.ly/3xTmdUP
+tags:
+- API_software
+---
+
 > Github Action 官方文档：[https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions#name](https://link.zhihu.com/?target=https%3A//docs.github.com/en/actions/reference/workflow-syntax-for-github-actions%23name)
 
 是 Github 推出的持续集成工具
