@@ -17,7 +17,7 @@ hugo server -D
 
 使用`hugo`来重新组织github page 博客
 
-
+尝试在 `1024code`中运行博客环境
 
 #### 已经完成的工作
 
