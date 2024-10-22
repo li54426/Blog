@@ -48,6 +48,16 @@ void setHttpCallback(const HttpCallback & cb);
 
 ### 1 HttpRequest
 
+
+
+```html
+https://www.example.com/product/123?category=electronics&sort=price_asc，
+- path_的值为/product/123
+- query_的值为category=electronics&sort=price_asc
+```
+
+
+
 - 存储了连接的**状态**, `URL`以及 `headers`
 
 ```c++

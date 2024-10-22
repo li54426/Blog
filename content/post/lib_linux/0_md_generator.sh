@@ -10,10 +10,10 @@ title:
 date:   $(date +"%Y-%m-%d %H:%M:%S")
 tags:
 - lib_linux
+- network
 ---
 
-* content
-{:toc}
+
 EOF
 
 echo "文件已生成：$filename"
