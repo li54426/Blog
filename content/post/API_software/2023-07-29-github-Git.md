@@ -139,9 +139,10 @@ Gist
 
 ```bash
 # 生成本地密钥
-# ssh-keygen -t ed25519 -C "your_email@example.com"  密钥默认存在 ~/.ssh/id_ed25519.pub
-ssh ssh-keygen -t rsa 
-// linux 下ssh-keygen -t rsa 
+# ssh-keygen -t ed25519 -C "your_email@example.com"  
+# 密钥默认存在 ~/.ssh/id_ed25519.pub
+#ssh ssh-keygen -t rsa 
+# linux 下，在git bash中也是 ssh-keygen -t rsa 
     
 //根据日志信息里面的 SSH KEY 存储路径找到 .ssh/id_rsa.pub 文件
 //打开 git 网站，右上角用户头像，点击 settings，左侧菜单 SSH KEYS，将文件内容复制到 key 里 添加就可以了
